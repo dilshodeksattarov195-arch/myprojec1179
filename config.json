@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperfetch",
+        "uuid": 1314585,
+        "checksum": "zqghb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
